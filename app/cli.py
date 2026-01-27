@@ -73,8 +73,8 @@ def delete_user(username: str):
         db.delete(user)
         db.commit()
         print(f"User '{username}' deleted successfully.") 
-        
+
 
 
 if __name__ == "__main__":
-    cli()
+    cli() 
