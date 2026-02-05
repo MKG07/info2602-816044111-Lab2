@@ -1,5 +1,3 @@
-# Info 2602 Lab 2
+# Info 2602 Lab 2 solution
 
-This is the starter codebase for Lab 2.
 
-Use this workspace as a starter to complete the tasks in the lab
